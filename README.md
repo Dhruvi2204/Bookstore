@@ -1,0 +1,1 @@
+This is a React based application in which a form is created with basic neccesities and I am mainly updating and printing form data using useState hook. You can run this program using npm start command. It basically was a class assignment which I though to save on github.
